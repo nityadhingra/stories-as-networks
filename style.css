@@ -1,0 +1,29 @@
+body {
+  background-color: #e5e4e2;
+}
+
+.text {
+  font-family: 'Lora';
+  font-size: 20px;
+  padding-left:220px;
+  padding-right:220px;
+  padding-top:60px;
+  padding-bottom:60px;
+  color:#000;
+  letter-spacing:1.5pt;
+  line-height:25pt;
+
+}
+
+.text2 {
+  font-family: 'Lora';
+  font-size: 20px;
+  padding-left:220px;
+  padding-right:220px;
+  padding-top:170px;
+  padding-bottom:60px;
+  color:#000;
+  letter-spacing:1.5pt;
+  line-height:25pt;
+
+}
