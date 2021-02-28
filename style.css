@@ -377,9 +377,9 @@ background-color: #e5e4e2;
 
 .text {
   font-family: 'Lora';
-  font-size: 20px;
-  padding-left:120px;
-  padding-right:160px;
+  font-size: 18px;
+  padding-left:80px;
+  padding-right:120px;
   padding-top:60px;
   padding-bottom:60px;
   color:#000;
@@ -393,9 +393,9 @@ background-color: #e5e4e2;
 
 .text2 {
   font-family: 'Lora';
-  font-size: 20px;
-  padding-left:90px;
-  padding-right:130px;
+  font-size: 18px;
+  padding-left:80px;
+  padding-right:120px;
   padding-top:60px;
   padding-bottom:60px;
   color:#000;
@@ -728,9 +728,9 @@ opacity:1.0;
 
 .text {
   font-family: 'Lora';
-  font-size: 20px;
-  padding-left:120px;
-  padding-right:160px;
+  font-size: 16px;
+  padding-left:60px;
+  padding-right:90px;
   padding-top:60px;
   padding-bottom:60px;
   color:#000;
@@ -744,9 +744,9 @@ opacity:1.0;
 
 .text2 {
   font-family: 'Lora';
-  font-size: 20px;
-  padding-left:90px;
-  padding-right:130px;
+  font-size: 16px;
+  padding-left:60px;
+  padding-right:90px;
   padding-top:60px;
   padding-bottom:60px;
   color:#000;
@@ -834,7 +834,7 @@ opacity:1.0;
   border-radius: 50%;
   opacity:0.5;
   position:relative;
-  top:-1450px;
+  top:-1200px;
   left:35px;
 
 }
@@ -880,7 +880,7 @@ opacity:1.0;
 
 @keyframes rotatee {
 	0% {
-		transform: translate(700px,100px);	
+		transform: translate(650px,100px);	
 	}
 	25% {
 		transform: translate(570px,150px);
@@ -892,7 +892,7 @@ opacity:1.0;
 		transform: translate(570px,150px);
 	}
 	100% {
-		transform: translate(700px,100px);
+		transform: translate(650px,100px);
 	}
 
 }
@@ -965,19 +965,19 @@ opacity:1.0;
 
 @keyframes rotateeeee {
 	0% {
-		transform: translate(840px,-600px);	
+		transform: translate(40px,200px);	
 	}
 	25% {
-		transform: translate(840px,-450px);
+		transform: translate(50px,50px);
 	}
 	50% {
-		transform: translate(750px,-350px);
+		transform: translate(70px,0px);
 	}
 	75% {
-		transform: translate(840px,-450px);
+		transform: translate(50px,50px);
 	}
 	100% {
-		transform: translate(840px,-600px);
+		transform: translate(40px,200px);
 	}
 }
 
@@ -1067,7 +1067,12 @@ opacity:1.0;
 }
 }
 
-@media screen and (max-width: 600px) {
+
+
+
+
+
+@media screen and (max-width: 320px) {
 
 }
 }
