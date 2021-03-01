@@ -1093,7 +1093,37 @@ opacity:1.0;
   color:#000;
   position:absolute;
   opacity:0.7;
-  
+ 
+ }
+
+.text {
+  font-family: 'Lora';
+  font-size: 14px;
+  padding-left:30px;
+  padding-right:70px;
+  padding-top:60px;
+  padding-bottom:60px;
+  color:#000;
+  letter-spacing:1.2pt;
+  line-height:25pt;
+  position:absolute;
+  opacity:0;
+
+
+}
+
+.text2 {
+  font-family: 'Lora';
+  font-size: 14px;
+  padding-left:30px;
+  padding-right:70px;
+  padding-top:60px;
+  padding-bottom:60px;
+  color:#000;
+  letter-spacing:1.1pt;
+  line-height:25pt;
+  position:absolute;
+  opacity:1.0; 
  
 
 }
@@ -1148,7 +1178,7 @@ opacity:1.0;
   .title2 {
   font-family: 'Lora';
   font-size: 12px;
-  padding-left:40px;
+  padding-left:0px;
   padding-right:0px;
   padding-top:300px;
   padding-bottom:60px;
