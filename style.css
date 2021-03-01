@@ -1186,22 +1186,8 @@ opacity:1.0;
   color:#000;
   position:absolute;
   opacity:0.7;
- }
   
- .text2 {
-  font-family: 'Lora';
-  font-size: 16px;
-  padding-left:0px;
-  padding-right:90px;
-  padding-top:60px;
-  padding-bottom:60px;
-  color:#000;
-  letter-spacing:1.1pt;
-  line-height:25pt;
-  position:absolute;
-  opacity:0.0;
-
-}
+ 
 
 }
 }
@@ -1235,7 +1221,7 @@ opacity:1.0;
   letter-spacing:1.1pt;
   line-height:25pt;
   position:absolute;
-  opacity:0.0;
+  opacity:1.0;
 
 }
 
