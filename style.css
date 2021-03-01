@@ -1068,15 +1068,104 @@ opacity:1.0;
 }
 
 
+@media screen and (max-width: 600px){
+ .title {
+  font-family: 'Lora';
+  font-size: 20px;
+  padding-left:95px;
+  padding-right:0px;
+  padding-top:240px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+ 
 
 
+}
+  .title2 {
+  font-family: 'Lora';
+  font-size: 15px;
+  padding-left:150px;
+  padding-right:0px;
+  padding-top:320px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+  
+ 
 
+}
+}
+
+@media screen and (max-width: 480px){
+.title {
+  font-family: 'Lora';
+  font-size: 16px;
+  padding-left:70px;
+  padding-right:0px;
+  padding-top:240px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+ 
+
+
+}
+  .title2 {
+  font-family: 'Lora';
+  font-size: 14px;
+  padding-left:90px;
+  padding-right:0px;
+  padding-top:300px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+  
+ 
+
+}
+}
 
 @media screen and (max-width: 320px) {
+.title {
+  font-family: 'Lora';
+  font-size: 14px;
+  padding-left:0px;
+  padding-right:0px;
+  padding-top:240px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+ 
+
+
+}
+  .title2 {
+  font-family: 'Lora';
+  font-size: 12px;
+  padding-left:40px;
+  padding-right:0px;
+  padding-top:300px;
+  padding-bottom:60px;
+  color:#000;
+  position:absolute;
+  opacity:0.7;
+  
+ 
+
+}
+}
+
+@media screen and (max-width: 375px) {
 
 .text {
   font-family: 'Lora';
-  font-size: 16px;
+  font-size: 14px;
   padding-left:60px;
   padding-right:90px;
   padding-top:60px;
@@ -1093,7 +1182,7 @@ opacity:1.0;
 .text2 {
   font-family: 'Lora';
   font-size: 16px;
-  padding-left:60px;
+  padding-left:0px;
   padding-right:90px;
   padding-top:60px;
   padding-bottom:60px;
@@ -1108,7 +1197,7 @@ opacity:1.0;
 .title {
   font-family: 'Lora';
   font-size: 14px;
-  padding-left:15px;
+  padding-left:40px;
   padding-right:0px;
   padding-top:240px;
   padding-bottom:60px;
@@ -1122,7 +1211,7 @@ opacity:1.0;
   .title2 {
   font-family: 'Lora';
   font-size: 12px;
-  padding-left:40px;
+  padding-left:60px;
   padding-right:0px;
   padding-top:300px;
   padding-bottom:60px;
@@ -1257,19 +1346,19 @@ opacity:1.0;
 
 @keyframes rotateee {
 	0% {
-		transform: translate(550px,600px);	
+		transform: translate(300px,500px);	
 	}
 	25% {
-		transform: translate(370px,550px);
+		transform: translate(270px,450px);
 	}
 	50% {
-		transform: translate(100px,500px);
+		transform: translate(100px,400px);
 	}
 	75% {
-		transform: translate(370px,550px);
+		transform: translate(270px,450px);
 	}
 	100% {
-		transform: translate(550px,600px);
+		transform: translate(300px,500px);
 	}
 }
 
@@ -1285,19 +1374,19 @@ opacity:1.0;
 
 @keyframes rotateeee {
 	0% {
-		transform: translate(250px,-100px);	
+		transform: translate(250px,300px);	
 	}
 	25% {
-		transform: translate(370px,15px);
+		transform: translate(170px,400px);
 	}
 	50% {
-		transform: translate(500px,120px);
+		transform: translate(100px,500px);
 	}
 	75% {
-		transform: translate(370px,15px);
+		transform: translate(170px,400px);
 	}
 	100% {
-		transform: translate(250px,-100px);
+		transform: translate(250px,300px);
 	}
 }
 
@@ -1341,19 +1430,19 @@ opacity:1.0;
 
 @keyframes rotateeeeee {
 	0% {
-		transform: translate(300px, -700px);	
+		transform: translate(270px, -80px);	
 	}
 	25% {
-		transform: translate(450px, -700px);
+		transform: translate(150px, -80px);
 	}
 	50% {
-		transform: translate(580px, -700px);
+		transform: translate(50px, -80px);
 	}
 	75% {
-		transform: translate(450px, -700px);
+		transform: translate(150px, -80px);
 	}
 	100% {
-		transform: translate(300px, -700px);
+		transform: translate(370px, -80px);
 	}
 }
 
@@ -1369,19 +1458,19 @@ opacity:1.0;
 
 @keyframes rotateeeeeee {
 	0% {
-		transform: translate(150px,-370px);	
+		transform: translate(120px,-370px);	
 	}
 	25% {
 		transform: translate(270px,-250px);
 	}
 	50% {
-		transform: translate(390px,-100px);
+		transform: translate(310px,-100px);
 	}
 	75% {
 		transform: translate(270px,-250px);
 	}
 	100% {
-		transform: translate(150px,-370px);
+		transform: translate(120px,-370px);
 	}
 }
 
@@ -1414,4 +1503,3 @@ opacity:1.0;
 
 }
 }
-
